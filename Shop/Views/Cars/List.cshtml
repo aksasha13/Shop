@@ -1,0 +1,18 @@
+﻿
+<h2>@Model.currCategory</h2>
+
+@{
+    if (@Model.currCategory == "")
+    {
+      <h2>All Cars</h2>  
+    }
+    
+}
+<div class="row mt-5 mb-2">
+    @{
+        foreach (Car car in Model.allCars)
+        {
+            @Html.Partial("AllCars", car);
+        }
+    }
+</div>
