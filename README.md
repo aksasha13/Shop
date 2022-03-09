@@ -23,5 +23,7 @@ To create a website, I used such technologies and interfaces as:
 <b>Entity Framework Core</b> - a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 
 <b>Linq</b> -(Language-Integrated Query) is a simple and convenient language for querying a data source)
+<br>
 <b>Back End</b> : Asp.NET (MVC),MSSQL
+<br>
 <b>Front End</b>: Bootstrap,HTML,CSS
