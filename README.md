@@ -14,7 +14,7 @@ The site for Order cars , the site have the cart for orders and all the order sa
 
 To create a website, I used such technologies and interfaces as:
 
-Linq -(Language-Integrated Query) is a simple and convenient language for querying a data source)
+<b>Linq</b> -(Language-Integrated Query) is a simple and convenient language for querying a data source)
 
 Mvc Framework -MVC is a programming pattern that allows you to divide your application logic into three parts: Model ,View ,Controller
 
